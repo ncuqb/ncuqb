@@ -34,3 +34,22 @@ Linux bash, GitHub, RegEx, Postman, REST API, DBeaver, FTP/SSH, VS Code, Jupyter
 </td>
 <td width="50%" valign="top" align="center">
 
+'''python
+var
+'''
+
+'''javascript
+var
+'''
+
+'''sql
+var
+'''
+
+'''html
+var
+'''
+
+
+
+</td>
