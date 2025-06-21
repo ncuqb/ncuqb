@@ -55,11 +55,11 @@ Linux bash, GitHub, RegeEx, Postman, REST API,  DBeaver, FTP/SSH, VS code, Jupit
 
 <h3>Contact<h3>
 
-
+<!--
 <p style="color: #7cacf8;">
 <strong style="color: #fe8d59;">Email: </strong>
 <a style="color: #00ff05; font-weight: bold;"href="mailto:kishikov.alexandr@gmail.com">kishikov.alexandr@gmail.com</a>
-</p>
+</p>-->
 
 
 <p style="color: #7cacf8;">
