@@ -22,7 +22,7 @@
 
 ---
 
-###№ 🌐Contact
+### 🌐Contact
 
 **Telegram:** [@ncuqb](https://t.me/ncuqb)
 
