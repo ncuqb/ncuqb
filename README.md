@@ -53,7 +53,7 @@ Linux bash, GitHub, RegeEx, Postman, REST API,  DBeaver, FTP/SSH, VS code, Jupit
 </p>
 
 
-<h3>Contact<h3>
+<h4>Contact</h4>
 
 <!--
 <p style="color: #7cacf8;">
@@ -76,7 +76,7 @@ Linux bash, GitHub, RegeEx, Postman, REST API,  DBeaver, FTP/SSH, VS code, Jupit
 
 
 
-<h3>Links to profiles<h3>
+<h4>Links to profiles</h4>
 
 
 <p style="color: #7cacf8;">
