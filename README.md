@@ -67,7 +67,7 @@ Linux bash, GitHub, RegeEx, Postman, REST API,  DBeaver, FTP/SSH, VS code, Jupit
 <a style="color: #00ff05; font-weight: bold;"href="https://t.me/ncuqb">@ncuqb</a>
 </p>
 
-<h3>Links to profiles<h3>
+
 
 <p style="color: #7cacf8;">
 <strong style="color: #fe8d59;">-----------------------------------------------------</strong>
