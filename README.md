@@ -2,24 +2,27 @@
 <tr>
 <td width="100%" valign="top">
 
-<u>**Specializations:**</u>
+
+## ⚡About me:
+
+#### 🧠Specializations:
 >*BI/Data/Web/Mobile Analyst, Machine Learning, Data Science*
 
-<u>**Python:**</u>
+#### 🐍Python:
 >*Pandas, Numpy, Request, Matplotlib, Plotly, Tensorflow/Keras, PyTorch, BeautifulSoup, FastApi, Aiogram*
 
-<u>**SQL:**</u> 
+#### 💾SQL:
 >*Clickhouse, BigQuery, SQLite*
 
-<u>**Analytical tools:**</u>  
+#### 📊Analytical tools:
 >*Airflow, DBT, Yandex Metrica, Yandex Appmetrica, Yandex Cloud (Clickhouse, Functions, API Gateway, ObjectStorage), Google Analytics, Google TagManager, Google Optimize, Google Cloud (BigQuery, CloudFunctions), Google Sheets, Superset, Redash, Yandex DataLens, Google LockerStudio*
 
-<u>**Other:**</u>  
+#### 📦Other:
 >*Linux bash, GitHub, RegEx, Postman, REST API, DBeaver, FTP/SSH, VS Code, Jupyter Notebook, HTML, CSS, JavaScript, JSON, XML, Markdown*
 
 ---
 
-### Contact
+###№ 🌐Contact
 
 **Telegram:** [@ncuqb](https://t.me/ncuqb)
 
