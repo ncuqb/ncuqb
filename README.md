@@ -31,7 +31,7 @@
 ### Links to profiles
 
 **GitHub:** [@ncuqb](https://github.com/ncuqb)  
-**Kaggle:** [@alexandrkishikov](https://www.kaggle.com/alexandrkishikov)  
+**Kaggle:** [@alexandrkonovalov](https://www.kaggle.com/alexandrkishikov)  
 **ODS:** [My ODS](https://ods.ai/users/j0f5bd76d2c79)
 
 </td>
